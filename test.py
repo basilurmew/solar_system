@@ -5,5 +5,5 @@ def sum_arr(arr):
     return sum
 
 print('hello world')
-arr = [3,9,3]
+arr = [3,9,3,7,2,5]
 print(sum_arr(arr))
